@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SalamaTariq</h1>
 <h3 align="center">I am Fronted Developer to be.</h3>
-![logo](
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salamatariq&label=Profile%20views&color=0e75b6&style=flat" alt="salamatariq" /> </p>
 
 - 🌱 I’m currently learning **Web and apps Development**
@@ -8,7 +8,8 @@
 - 💬 Ask me about **Html**
 
 - ⚡ Fun fact **I love Coading**
-
+<br><img width="400" algin="right" alt="coad" scr="
+"/>
 
 <p align="left">
 </p>
