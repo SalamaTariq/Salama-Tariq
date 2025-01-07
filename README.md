@@ -8,8 +8,7 @@
 - 💬 Ask me about **Html**
 
 - ⚡ Fun fact **I love Coading**
-<br><img width="400" algin="right" alt="coad" scr="
-"/>
+
 
 <p align="left">
 </p>
